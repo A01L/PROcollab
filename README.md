@@ -1,2 +1,2 @@
 # PROcollab
-PROcollab - tool for construct site on visual mode and edit code online on web panel. default pass: admin
+PROcollab is a tool for creating a website in visual mode and editing code online on a web panel. default password: admin (custom version of TextoLite)
